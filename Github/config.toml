@@ -1,0 +1,6 @@
+baseurl = "http://yourSiteHere/"
+languageCode = "en-us"
+title = "Lets Learn Hugo"
+theme ="hugo-uno"
+[params]
+description = "This is made using static website generator Hugo for Google Code-in task! This will help you to make a blog like this using Hugo!!!"
